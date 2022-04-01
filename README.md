@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n00shinm
 - 👀 I’m interested in all things creative ;)
-- 🌱 I’m currently learning p5.js at OCADU in the Digital Futures program
+- 🌱 I’m currently learning fantastic stuff at OCADU under the guise of Digital Futures
 
 - 📫 How to reach me on IG @houseofnoosh
 
